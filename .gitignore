@@ -10,3 +10,7 @@ obj/
 /.fake/
 /paket-files/
 /.vscode/
+node_modules
+.idea/
+.vite/
+*.user
